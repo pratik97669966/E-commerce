@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699726647258",
+    "firebase_url": "https://ekart-9e4f4-default-rtdb.firebaseio.com",
+    "project_id": "ekart-9e4f4",
+    "storage_bucket": "ekart-9e4f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699726647258:android:ee888a47c26d79aa71fae3",
+        "android_client_info": {
+          "package_name": "com.example.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699726647258-jlvmqnpcsoor4jov7kj9hakb1uupn1vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASiwwbeZ_XvY9H1BJ2J5_5VbikRErZwLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699726647258-jlvmqnpcsoor4jov7kj9hakb1uupn1vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
